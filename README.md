@@ -32,9 +32,12 @@ This project analyzes sales data to find business insights such as total revenue
 - Created business visualizations using Matplotlib
 
 ## How to Run
-Coming soon.
+1. Clone this repository
 
-## Sample Visualizations
+```bash
+git clone https://github.com/pragyapaliwalsharma-hue/sales-data-analysis-dashboard.git
+
+**## Sample Visualizations**
 ### Sales by Product Line
 ![Product Sales Chart](images/product_sales_chart.png)
 
