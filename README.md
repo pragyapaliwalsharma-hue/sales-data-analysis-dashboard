@@ -33,3 +33,16 @@ This project analyzes sales data to find business insights such as total revenue
 
 ## How to Run
 Coming soon.
+
+## Sample Visualizations
+### Sales by Product Line
+![Product Sales Chart](images/product_sales_chart.png)
+
+### Monthly Sales Trend
+![Monthly Sales Chart](images/monthly_sales_chart.png)
+
+### Top Countries by Revenue
+![Top Countries Chart](images/top_countries_chart.png)
+
+### Top Customers
+![Top Customers Chart](images/top_customers_chart.png)
