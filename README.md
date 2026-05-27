@@ -49,7 +49,7 @@ This project analyzes sales data to find business insights such as total revenue
 ## How to Run
 
 1. Clone this repository
-   ```bash
+```bash
 git clone https://github.com/pragyapaliwalsharma-hue/sales-data-analysis-dashboard.git
 
 3. Open the project folder
