@@ -31,6 +31,21 @@ This project analyzes sales data to find business insights such as total revenue
 - Identified highest-value customers
 - Created business visualizations using Matplotlib
 
+## Sample Visualizations
+
+### Sales by Product Line
+![Product Sales Chart](images/product_sales_chart.png)
+
+### Monthly Sales Trend
+![Monthly Sales Chart](images/monthly_sales_chart.png)
+
+### Top Countries by Revenue
+![Top Countries Chart](images/top_countries_chart.png)
+
+### Top Customers
+![Top Customers Chart](images/top_customers_chart.png)
+
+
 ## How to Run
 1. Clone this repository
 ```bash
@@ -55,16 +70,3 @@ Then:
 
 Now your README will look much more complete and professional.
 
-## Sample Visualizations
-
-### Sales by Product Line
-![Product Sales Chart](images/product_sales_chart.png)
-
-### Monthly Sales Trend
-![Monthly Sales Chart](images/monthly_sales_chart.png)
-
-### Top Countries by Revenue
-![Top Countries Chart](images/top_countries_chart.png)
-
-### Top Customers
-![Top Customers Chart](images/top_customers_chart.png)
