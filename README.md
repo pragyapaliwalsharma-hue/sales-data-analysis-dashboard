@@ -25,7 +25,11 @@ This project analyzes sales data to find business insights such as total revenue
 - `images/` - Charts and dashboard screenshots
 
 ## Key Insights
-Coming soon.
+- Identified highest revenue-generating product lines
+- Analyzed monthly sales trends
+- Found top-performing countries by revenue
+- Identified highest-value customers
+- Created business visualizations using Matplotlib
 
 ## How to Run
 Coming soon.
