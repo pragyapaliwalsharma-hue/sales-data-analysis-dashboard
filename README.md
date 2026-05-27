@@ -37,7 +37,8 @@ This project analyzes sales data to find business insights such as total revenue
 ```bash
 git clone https://github.com/pragyapaliwalsharma-hue/sales-data-analysis-dashboard.git
 
-**## Sample Visualizations**
+## Sample Visualizations
+
 ### Sales by Product Line
 ![Product Sales Chart](images/product_sales_chart.png)
 
