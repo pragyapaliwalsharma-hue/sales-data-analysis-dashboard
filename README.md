@@ -49,25 +49,29 @@ This project analyzes sales data to find business insights such as total revenue
 ## How to Run
 
 1. Clone this repository
+
 ```bash
 git clone https://github.com/pragyapaliwalsharma-hue/sales-data-analysis-dashboard.git
+```
 
-3. Open the project folder
-4. Install required libraries
+2. Open the project folder
+
+3. Install required libraries
+
 ```bash
 pip install pandas matplotlib
+```
 
 4. Open Jupyter Notebook
+
+```bash
 jupyter notebook
+```
 
 5. Open:
+
+```txt
 sales_analysis.ipynb
+```
 
 6. Run all notebook cells to reproduce the analysis and charts
-
-Then:
-1. Click **Commit changes**
-2. Commit again
-
-Now your README will look much more complete and professional.
-
